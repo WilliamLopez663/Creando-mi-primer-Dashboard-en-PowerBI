@@ -14,7 +14,7 @@ La empresa MaxTecnology especializada en ventas de productos de tecnología de M
 Para ello nos proporcionan los siguientes datos:
 
 📎 **[Datos-2021.xlsx](./assets/docs/Datos2021.xlsx)**  
-📎 **[Datos-2022.xlsx](./assets/docs/Datos2022.xlsx)**
+📎 **[Datos-2022.xlsx](./assets/docs/Datos2022.xlsx)**  
 📎 **[Datos-2022.xlsx](./assets/docs/Datos2022.xlsx)**
 
 Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ver nuestras información de esta forma:
