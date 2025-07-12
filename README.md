@@ -40,7 +40,7 @@ Transformando tipo de dato blank a tipo null usando la función reemplazar valor
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-celda-tipo-null-final.PNG">
 </div>
 
-Transformando algunas columnas a tipo texto debido a que Power BI automaticamente intenta convertirlas en de tipo número:
+Transformando algunas columnas a tipo texto debido a que Power BI la identifica como de tipo número:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-tipo-dato.PNG">
 </div>
