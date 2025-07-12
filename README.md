@@ -18,6 +18,9 @@ Para ello nos proporcionan los siguientes datos:
 📎 **[Datos 2022.xlsx](./assets/docs/Datos2022.xlsx)**
 
 <p>
-  Tras cargar nuestras tablas en Power BI y renombrarlas podemos ver nuestras tablas de esta forma:
+  Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ver nuestras información de esta forma:
 </p>
 
+<img src="https://raw.githubusercontent.com/WilliamLopez663/Uso-de-Funciones-en-Excel/main/assets/images/datos-cargados.PNG">
+
+assets/images
