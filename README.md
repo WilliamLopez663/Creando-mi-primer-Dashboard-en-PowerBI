@@ -18,7 +18,10 @@ Para ello nos proporcionan los siguientes datos:
 📎 **[Datos-2023.xlsx](./assets/docs/Datos2022.xlsx)**
 
 Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ver nuestras información de esta forma:
+<br><br>
 <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/datos-cargados.PNG">
 
-Uniendo las tablas de los datos de loos tickets de las ventas de los años 2021, 2022 y 2023:  
-<img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/uniendo-tablas.PNG">
+Uniendo las tablas de los datos de loos tickets de las ventas de los años 2021, 2022 y 2023:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/uniendo-tablas.PNG">
+</div>
