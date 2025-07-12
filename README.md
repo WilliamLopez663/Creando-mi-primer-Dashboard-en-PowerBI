@@ -3,7 +3,7 @@ En este proyecto crearé mi primer dashboard en PowerBI basado en el siguiente e
 
 ## :page_with_curl: EJERCICIO
 <p>
-  Una empresa especializada en ventas de productos de tecnología de Mexico desea conocer un análisis de sus ventas realizadas por sus sucursales durante los años 2021 y 2022 que responda las siguientes preguntas.
+  Una empresa especializada en ventas de productos de tecnología de Mexico desea conocer un análisis de sus ventas realizadas por sus sucursales durante los años 2021 y 2022 que responda las siguientes preguntas:
 </p>
 
 - ¿Cuál de las sucursales está generando mayores ventas?
@@ -13,3 +13,6 @@ En este proyecto crearé mi primer dashboard en PowerBI basado en el siguiente e
 - ¿Cuál es el nivel de cuenta (cliente) que ha obtenido mejores resultados en ventas?
 
 Para ello nos proporcionan los siguientes datos:
+
+📎 **[Datos 2021.xlsx](./assets/docs/Datos2021.xlsx)**  
+📎 **[Datos 2022.xlsx](./assets/docs/Datos2022.xlsx)**
