@@ -42,8 +42,8 @@ Transformando tipo de dato blank a tipo null usando la función reemplazar valor
 
 Utilizando la función rellenar abajo para completar nuestra tabla:
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo.PNG">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo-final.PNG">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo.png">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo-final.png">
 </div>
 
 
