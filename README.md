@@ -63,11 +63,11 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
 
 - Usando la función usar primero fila como encabezado:
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usar-primera-fila-como-encabezado.PNG">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usando-primera-fila-como-encabezado.PNG">
 </div>
 
 - Este es el resultado de utilizar la opción usar primera fila como encabezado:
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usar-primera-fila-como-encabezado-final.PNG">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usando-primera-fila-como-encabezado-final.PNG">
 </div>
   
