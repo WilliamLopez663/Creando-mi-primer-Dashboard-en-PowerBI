@@ -70,4 +70,13 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usando-primera-fila-como-encabezado-final.PNG">
 </div>
-  
+
+- Usando la función crear columna a partir de ejemplos para unir nuestra columna Categoría y subcategoría en una sola columna:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/crear-columna-a-partir-de-ejemplos.PNG">
+</div>
+
+- Tras usar la función esta esta nuestra columna unida:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/crear-columna-a-partir-de-ejemplos-final.PNG">
+</div>
