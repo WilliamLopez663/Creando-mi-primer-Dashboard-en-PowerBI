@@ -61,7 +61,7 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dividir-columna-final.PNG">
 </div>
 
-- Usando la función usar primero fila como encabezado:
+- Usando la función usar primera fila como encabezado:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usando-primera-fila-como-encabezado.PNG">
 </div>
