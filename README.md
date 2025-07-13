@@ -17,21 +17,21 @@ Para ello nos proporcionan los siguientes datos:
 📎 **[Datos-2022.xlsx](./assets/docs/Datos2022.xlsx)**  
 📎 **[Datos-2023.xlsx](./assets/docs/Datos2022.xlsx)**
 
-Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ver nuestras información de esta forma:
+Tras cargar la información en `Power BI` y renombrar las tablas se puede visualizar de esta forma:
 <br><br>
 <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/datos-cargados.PNG">
 
-- Uniendo las tablas de los datos de los tickets de las ventas de los años 2021, 2022 y 2023:
+- `Uniendo las tablas` de los datos de los tickets de las ventas de los años 2021, 2022 y 2023:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/uniendo-tablas.PNG">
 </div>
 
-- Modificando el tipo de dato de las columnas de mi tabla tickets:
+- `Modificando el tipo de dato` de las columnas de la tabla tickets:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/uniendo-tablas.PNG">
 </div>
 
-- Transformando tipo de dato blank a tipo null usando la función reemplazar valores:
+- `Transformando tipo de dato` blank a tipo null usando la función reemplazar valores:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-celda-tipo-null-ejecutando.PNG">
 </div>
@@ -40,28 +40,28 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-celda-tipo-null-final.PNG">
 </div>
 
-- Utilizando la función rellenar abajo para completar nuestra tabla:
+- Utilizando la función `rellenar abajo` para completar los datos de mi tabla:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo.png">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo-final.png">
 </div>
 
-- Transformando algunas columnas a tipo texto debido a que Power BI la identifica como de tipo número:
+- `Transformando algunas columnas a tipo texto` debido a que Power BI las identifica como de tipo número:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-tipo-dato.PNG">
 </div>
 
-- Usando la función dividir columna para separar el tipo de cuenta del nivel de cuenta:
+- Usando la función `dividir columna` para separar el tipo de cuenta del nivel de cuenta:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dividir-columna.PNG">
 </div>
 
-- Este es el resultado tras dividir nuestra columna:
+- Este es el resultado tras dividir la columna:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dividir-columna-final.PNG">
 </div>
 
-- Usando la función usar primera fila como encabezado:
+- Utilizando la función `usar primera fila como encabezado`:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usando-primera-fila-como-encabezado.PNG">
 </div>
@@ -71,7 +71,7 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/usando-primera-fila-como-encabezado-final.PNG">
 </div>
 
-- Usando la función crear columna a partir de ejemplos para unir nuestra columna Categoría y subcategoría en una sola columna:
+- Usando la función `crear columna a partir de ejemplos` para unir nuestra columna Categoría y subcategoría en una sola columna:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/crear-columna-a-partir-de-ejemplos.PNG">
 </div>
@@ -79,4 +79,19 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
 - Tras usar la función esta esta nuestra columna unida:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/crear-columna-a-partir-de-ejemplos-final.PNG">
+</div>
+
+- Usando la función `columna personalizada` para crear una nueva columna sin la palabra sucursal debido a que puede no ser atractivo al momento de mostrar nuestros graficos:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-personalizada.PNG">
+</div>
+
+- Para usar esta columna hago uso de la función `Text.Middle` de PowerQuery para traer el texto que se encuentra en la columna SUCURSAL_NOMBRE a partir del caracter 9:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/text-middle.PNG">
+</div>
+
+- Esta es la columna resultado:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-personalizada-final.PNG">
 </div>
