@@ -46,8 +46,18 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo-final.png">
 </div>
 
-
 - Transformando algunas columnas a tipo texto debido a que Power BI la identifica como de tipo número:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-tipo-dato.PNG">
 </div>
+
+- Usando la función dividir columna para separar el tipo de cuenta del nivel de cuenta:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dividir-columna.PNG">
+</div>
+
+- Este es el resultado tras dividir nuestra columna:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dividir-columna-final.PNG">
+</div>
+  
