@@ -21,17 +21,17 @@ Tras cargar nuestra información en `Power BI` y renombrar las tablas podemos ve
 <br><br>
 <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/datos-cargados.PNG">
 
-Uniendo las tablas de los datos de los tickets de las ventas de los años 2021, 2022 y 2023:
+- Uniendo las tablas de los datos de los tickets de las ventas de los años 2021, 2022 y 2023:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/uniendo-tablas.PNG">
 </div>
 
-Modificando el tipo de dato de las columnas de mi tabla tickets:
+- Modificando el tipo de dato de las columnas de mi tabla tickets:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/uniendo-tablas.PNG">
 </div>
 
-Transformando tipo de dato blank a tipo null usando la función reemplazar valores:
+- Transformando tipo de dato blank a tipo null usando la función reemplazar valores:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-celda-tipo-null-ejecutando.PNG">
 </div>
@@ -40,14 +40,14 @@ Transformando tipo de dato blank a tipo null usando la función reemplazar valor
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-celda-tipo-null-final.PNG">
 </div>
 
-Utilizando la función rellenar abajo para completar nuestra tabla:
+- Utilizando la función rellenar abajo para completar nuestra tabla:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo.png">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/rellenar-abajo-final.png">
 </div>
 
 
-Transformando algunas columnas a tipo texto debido a que Power BI la identifica como de tipo número:
+- Transformando algunas columnas a tipo texto debido a que Power BI la identifica como de tipo número:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/transformando-tipo-dato.PNG">
 </div>
