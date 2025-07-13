@@ -113,5 +113,5 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 
 - Tras ejecutar la función columna condicional esta es la columna resultado:
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional.PNG">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional-final.PNG">
 </div>
