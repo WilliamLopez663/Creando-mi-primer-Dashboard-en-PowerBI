@@ -100,3 +100,18 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-personalizada-final.PNG">
 </div>
+
+- Usando la función columna condicional para crear una nueva columna que contenga los descuento que se aplican a los clientes dependiendo del nivel de cuenta:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional.PNG">
+</div>
+
+- Dentro de la función nombro la columna y asigno el porcentaje de descuento para cada nivel de cuenta:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional-ejecutando.PNG">
+</div>
+
+- Tras ejecutar la función columna condicional esta es la columna resultado:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional.PNG">
+</div>
