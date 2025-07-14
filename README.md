@@ -101,7 +101,7 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-personalizada-final.PNG">
 </div>
 
-- Usando la función columna condicional para crear una nueva columna que contenga los descuento que se aplican a los clientes dependiendo del nivel de cuenta:
+- Usando la función `columna condicional` para crear una nueva columna que contenga los descuento que se aplican a los clientes dependiendo del nivel de cuenta:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional.PNG">
 </div>
@@ -111,7 +111,7 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional-ejecutando.PNG">
 </div>
 
-- Tras ejecutar la función columna condicional esta es la columna resultado:
+- Tras ejecutar la función `columna condicional` esta es la columna resultado:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/columna-condicional-final.PNG">
 </div>
@@ -126,12 +126,12 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/creando-relacion.png">
 </div>
 
-- Se muestra un cuadro que indica el tipo de relación que se está ejecutando, para este caso es de muchos a uno debido a que muchos tickes pueden estar relacionados con el mismo vendedor:
+- Se muestra un cuadro que indica el `tipo de relación` que se está ejecutando, para este caso es de muchos a uno debido a que muchos tickes pueden estar relacionados con el mismo vendedor:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tipo-de-relacion.PNG">
 </div>
 
-- La relación se visualiza de esta forma:
+- La `relación` se visualiza de esta forma:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/relacion-final.PNG">
 </div>
@@ -139,4 +139,9 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 - Ejecutando las relaciones con las demás tablas este es el resultado:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/relaciones-final.PNG">
+</div>
+
+- Haciendo uso de `DAX` para crear una columna calculada a partir de unir los datos de 2 columnas:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-columna-calculada.PNG">
 </div> 
