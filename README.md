@@ -210,3 +210,9 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tabla-calendario.PNG">
 </div>
+
+- Usando DAX para agregar una columna corregida de sucursal_id debido a que la actual contiene espacios en blanco, para ello traigo el dato de la sucursal a partir de la tabla vendedores:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-correccion-columna-sucursal-id.PNG">
+</div>
+  
