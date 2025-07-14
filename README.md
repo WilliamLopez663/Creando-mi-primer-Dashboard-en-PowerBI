@@ -210,3 +210,11 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/matriz-meses-dias-totales.PNG">
 </div>
+
+- Uso de DAX para crear medidas para el conteo de productos y el conteo de vendedores:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-medida-conteo-productos.PNG">
+</div>
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-medida-conteo-vendedores.PNG">
+</div>
