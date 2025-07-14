@@ -144,4 +144,15 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 - Haciendo uso de `DAX` para crear una columna calculada a partir de unir los datos de 2 columnas:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-columna-calculada.PNG">
-</div> 
+</div>
+
+- La `columna calculada` queda así:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-columna-calculada-final.PNG">
+</div>
+
+- Haciendo uso de `DAX` para crear una `MEDIDA` para el conteo de tickets:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-crear-medida-conteo-tickets.PNG">
+</div>
+
