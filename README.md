@@ -121,7 +121,7 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/datos-transformados.PNG">
 </div>
 
-- Realizando un modelado de datos de tipo estrella para relacionar nuestras tablas, arrastrando el campo que queremos relacionar:
+- Realizando un modelado de datos de tipo estrella para relacionar la tabla tickets con las demás, arrastrando el campo hacia la tabla que se quiere relacionar:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/creando-relacion.png">
 </div>
