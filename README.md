@@ -191,10 +191,13 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/reporte-informe-tabla-sucursales-final.PNG">
 </div>
 
-- Uso de DAX para crear un tabla calendario:
+- Uso de DAX para crear un tabla calendario y adicionarle una columna para el mes:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-tabla-calendario.PNG">
-</div>
+</div>  
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-columna-mes.PNG">
+</div>  
 
 
   
