@@ -6,7 +6,7 @@ En este proyecto crearé mi primer dashboard en PowerBI basado en el siguiente e
 La empresa **MaxTecnology** especializada en ventas de productos de tecnología en Mexico desea conocer un análisis de las ventas realizadas por sus sucursales durante los años 2021, 2022 y 2023, debido a que las  ventas han estado en declive, y se ha tenido que cerrar una sucursal, lo que genera incertidumbre sobre su futuro. Adicional nos indica que debemos tener en cuenta el porcentaje de descuento para los clientes dependiente del nivel de cuenta.
 
 
- Plata: 3% de descuento  
+Plata: 3% de descuento  
 Oro: 8% de descuento  
 Platino: 12% de descuento  
 
@@ -151,8 +151,13 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-columna-calculada-final.PNG">
 </div>
 
-- Haciendo uso de `DAX` para crear una `MEDIDA` para el conteo de tickets:
+- Haciendo uso de `DAX` para crear una `medida` para el conteo de tickets:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-crear-medida-conteo-tickets.PNG">
 </div>
 
+- Tras ejecutar la función se crea la `medida` en el panel de datos:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-medida-conteo-tickets.PNG">
+</div>
+- 
