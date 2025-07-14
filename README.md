@@ -175,4 +175,19 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/total-venta-con-descuento.PNG">
 </div>
-- 
+
+- Haciendo uso de la `función Promedio` de `DAX` para obtener el promedio de cada ticket:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-average-promedio-tickets.PNG">
+</div>
+
+- Para dar respuesta a la primera pregunta creo una tabla en el espacion reporte del informe donde agrego a las columnas las sucursales, el conteo de tickets, el total con del descuento y el promedio del ticket.
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/reporte-informe-creando-tabla-sucursales.PNG">
+</div>
+
+- Tras crear nuestra tabla podemos concluir que **PENDIENTE CORREGIR TABLA**
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/reporte-informe-tabla-sucursales-final.PNG">
+</div>
+  
