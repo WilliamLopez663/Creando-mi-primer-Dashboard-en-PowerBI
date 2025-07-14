@@ -121,8 +121,22 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/datos-transformados.PNG">
 </div>
 
-- Realizando un modelado de datos de tipo estrella para relacionar la tabla tickets con las demás, arrastrando el campo hacia la tabla que se quiere relacionar:
+- Realizando un modelado de datos de tipo estrella para `relacionar la tabla` tickets con las demás, arrastrando el campo hacia la tabla que se quiere relacionar:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/creando-relacion.png">
 </div>
-- 
+
+- Se muestra un cuadro que indica el tipo de relación que se está ejecutando, para este caso es de muchos a uno debido a que muchos tickes pueden estar relacionados con el mismo vendedor:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tipo-de-relacion.PNG">
+</div>
+
+- La relación se visualiza de esta forma:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/relacion-final.PNG">
+</div>
+
+- Ejecutando las relaciones con las demás tablas este es el resultado:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/relaciones-final.PNG">
+</div> 
