@@ -166,7 +166,7 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-related-descuento-nivel-cuenta.PNG">
 </div>
 
-- Haciendo uso de `DAX` para multiplicar el precio total por el complemento del descuento por nivel de cuenta:
+- Haciendo uso de `DAX` para crear una columna en la cual se multiplica el precio total por el complemento del descuento por nivel de cuenta:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-multiplicando-precio-total-por-complemento-descuento-nivel-cuenta.PNG">
 </div>
