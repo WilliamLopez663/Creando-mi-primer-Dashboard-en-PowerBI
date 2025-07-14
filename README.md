@@ -181,17 +181,7 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-average-promedio-tickets.PNG">
 </div>
 
-- Para dar respuesta a la primera pregunta creo una tabla en el espacion reporte del informe donde agrego a las columnas las sucursales, el conteo de tickets, el total con del descuento y el promedio del ticket.
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/reporte-informe-creando-tabla-sucursales.PNG">
-</div>
-
-- Tras crear nuestra tabla podemos concluir que **PENDIENTE CORREGIR TABLA**
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/reporte-informe-tabla-sucursales-final.PNG">
-</div>
-
-- Uso de DAX para crear un tabla calendario, adicionando columnas para el mes y el día de la semana:
+- Uso de `DAX` para crear una tabla calendario, adicionando columnas para el mes y el día de la semana:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-tabla-calendario.PNG">
 </div>  
@@ -211,8 +201,12 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tabla-calendario.PNG">
 </div>
 
-- Usando DAX para agregar una columna corregida de sucursal_id debido a que la actual contiene espacios en blanco, para ello traigo el dato de la sucursal a partir de la tabla vendedores:
+- Usando `DAX` para agregar una columna corregida de sucursal_id debido a que la actual contiene espacios en blanco, para ello traigo el dato de la sucursal a partir de la tabla vendedores:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-correccion-columna-sucursal-id.PNG">
 </div>
-  
+
+- Para inciar con el reporte creo una `matriz` donde adiciono los meses como filas, los días como columnas y los totales con descuento como los valores, adiconalmente creo un formato condicional a los valores para dar el `efecto de calor` para los días con mas ventas:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/matriz-meses-dias-totales.PNG">
+</div>
