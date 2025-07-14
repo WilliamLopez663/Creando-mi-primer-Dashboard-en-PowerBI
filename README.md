@@ -160,4 +160,10 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-medida-conteo-tickets.PNG">
 </div>
-- 
+
+- Haciendo uso de una función de `DAX` para traer el descuento por nivel de cuenta de los clientes a la tabla tickets que depues multiplicaremos por el precio total para hallar el total de da venta con el descuento:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-related-descuento-nivel-cuenta.PNG">
+</div>
+
+
