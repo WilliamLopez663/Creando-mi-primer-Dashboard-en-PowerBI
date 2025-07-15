@@ -246,8 +246,16 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 
 - Insertando tarjeta para mostrar la mejor y peor sucursal en ventas:
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tarjeta-mejor-peor-sucursal-ventas.PNG.PNG">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tarjeta-mejor-peor-sucursal-ventas.PNG">
 </div>
+
+- Adicionando estilos, corrigiendo tamaños, insertando imágenes, este es el resultado final:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG">
+</div>
+
+### Podemos concluir que:
 - 
+
 
 
