@@ -224,8 +224,12 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tabla-ventas-por-sucursal.PNG">
 </div>
 
-- Insertando un gráfico de lineas para visualizar las ventas a lo largo del tiempo:
+- Insertando un `gráfico de lineas` para visualizar las ventas a lo largo del tiempo:
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/grafico-lineas-ventas.PNG">
 </div>
 
+- Utilizando `DAX` para crear una medida que compare las ventas con el año anterior:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/dax-comparar-ventas-año-anterior.PNG">
+</div>
