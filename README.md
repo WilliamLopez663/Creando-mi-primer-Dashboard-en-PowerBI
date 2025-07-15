@@ -19,8 +19,8 @@ En el análisis la empresa desea resolver las siguientes dudas:
 Para ello nos proporcionan los siguientes datos:
 
 :link: **[Datos-2021.xlsx](https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/docs/Datos-2021.xlsx)**  
-:link: **[Datos-2022.xlsx](./assets/docs/Datos2022.xlsx)**  
-:link: **[Datos-2023.xlsx](./assets/docs/Datos2022.xlsx)**
+:link: **[Datos-2022.xlsx](https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/docs/Datos-2022.xlsx)**  
+:link: **[Datos-2023.xlsx](https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/docs/Datos-2023.xlsx)**
 
 Tras cargar la información en `Power BI` y renombrar las tablas se puede visualizar de esta forma:
 <br><br>
