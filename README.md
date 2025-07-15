@@ -243,4 +243,11 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/segmentador-año.PNG">
 </div>
+
+- Insertando tarjeta para mostrar la mejor y peor sucursal en ventas:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tarjeta-mejor-peor-sucursal-ventas.PNG.PNG">
+</div>
 - 
+
+
