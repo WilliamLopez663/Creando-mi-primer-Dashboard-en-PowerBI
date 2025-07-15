@@ -239,3 +239,8 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/grafico-lineas-dax-comparar-ventas-año-anterior.PNG">
 </div>
   
+- Insertando un `segmentador` para filtrar el año:
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/segmentador-año.PNG">
+</div>
+- 
