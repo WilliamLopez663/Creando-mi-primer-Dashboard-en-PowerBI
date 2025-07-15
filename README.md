@@ -1,4 +1,4 @@
-<h1 align="center"> Creando mi primer Dashboard en PowerBI</h1>
+<h1 align="center"> :chart_with_upwards_trend:Creando mi primer Dashboard en PowerBI</h1>
 En este proyecto crearé mi primer dashboard en PowerBI basado en el siguiente ejercicio.
 
 ## :page_with_curl: Ejercicio
@@ -249,16 +249,21 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/tarjeta-mejor-peor-sucursal-ventas.PNG">
 </div>
 
-- Adicionando estilos, corrigiendo tamaños, insertando imágenes, este es el resultado final:
+- Adicionando estilos, corrigiendo tamaños, insertando imágenes:
+## :bar_chart: Resultado final
 <div align="center">
   <img  src="https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/images/resultado-final.PNG">
 </div>
 
-### Podemos concluir que:
-- La sucursal con mejor desempeño es Monterrey Centro con $851M, y la de peor desempeño es Monclova con $37M y la diferencia se asocia a la cantidad de vendedores y productos ofrecidos.
 
-- A mayor variedad de productos, mayores niveles de ventas, como se ve en Monterrey y San Nicolás. Las sucursales con menos productos, como Monclova, tienen ventas mucho más bajas.
+:link: **[AnálisisMaxTecnology.pbix](https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/docs/AnalisisMaxTecnology.pbix)**
+## Conclusiones
+:white_check_mark: La sucursal con mejor desempeño es Monterrey Centro con $851M, y la de peor desempeño es Monclova con $37M y la diferencia se asocia a la cantidad de vendedores y productos ofrecidos.
 
-- Más vendedores se relacionan con mayores ventas; Monterrey tiene 14 vendedores y lidera en ingresos. Sucursales con menos personal, como Monclova (5), venden significativamente menos.
+:white_check_mark: A mayor variedad de productos, mayores niveles de ventas, como se ve en Monterrey y San Nicolás. Las sucursales con menos productos, como Monclova, tienen ventas mucho más bajas.
 
-- Las ventas aumentan notablemente en junio, noviembre y diciembre. Esto indica un efecto estacional, posiblemente por promociones y temporada navideña. Se recomienda aplicar algunas de estas técnicas en las demas temporadas del año.
+:white_check_mark: Más vendedores se relacionan con mayores ventas; Monterrey tiene 14 vendedores y lidera en ingresos. Sucursales con menos personal, como Monclova (5), venden significativamente menos.
+
+:white_check_mark: Las ventas aumentan notablemente en junio, noviembre y diciembre. Esto indica un efecto estacional, posiblemente por promociones y temporada navideña. Se recomienda aplicar estrategias de ventas en las demas temporadas del año.
+
+  <br>
