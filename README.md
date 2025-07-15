@@ -256,7 +256,7 @@ Tras cargar la información en `Power BI` y renombrar las tablas se puede visual
 </div>
 
 
-:link: **[AnálisisMaxTecnology.pbix](https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/docs/AnalisisMaxTecnology.pbix)**
+:link: **[AnálisisMaxTecnology.pbix](https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/docs/AnalisisMaxTecnology.rar)**
 ## Conclusiones
 :white_check_mark: La sucursal con mejor desempeño es Monterrey Centro con $851M, y la de peor desempeño es Monclova con $37M y la diferencia se asocia a la cantidad de vendedores y productos ofrecidos.
 
