@@ -18,7 +18,7 @@ En el análisis la empresa desea resolver las siguientes dudas:
 
 Para ello nos proporcionan los siguientes datos:
 
-:link: **[Datos-2021.xlsx](./assets/docs/Datos2021.xlsx)**  
+:link: **[Datos-2021.xlsx]([./assets/](https://raw.githubusercontent.com/WilliamLopez663/Creando-mi-primer-Dashboard-en-PowerBI/main/assets/docs/Datos2021.xlsx)**  
 :link: **[Datos-2022.xlsx](./assets/docs/Datos2022.xlsx)**  
 :link: **[Datos-2023.xlsx](./assets/docs/Datos2022.xlsx)**
 
